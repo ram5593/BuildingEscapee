@@ -1,0 +1,3 @@
+C:\Users\Ryan\source\repos\03_BuildingEscape\EscapeBuilding\Source\EscapeBuilding\EscapeBuilding.Build.cs
+C:\Users\Ryan\source\repos\03_BuildingEscape\EscapeBuilding\Source\EscapeBuilding.Target.cs
+C:\Users\Ryan\source\repos\03_BuildingEscape\EscapeBuilding\Source\EscapeBuildingEditor.Target.cs
